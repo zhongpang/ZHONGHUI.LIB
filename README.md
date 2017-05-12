@@ -1,0 +1,2 @@
+# ZHONGHUI.LIB
+ZHONGHUI.LIB for test
